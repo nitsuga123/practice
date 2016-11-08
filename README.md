@@ -10,11 +10,13 @@ In order to submit a solution students need to create a fork of this repository 
 0. How should you solve a theory question?
 
 In order to solve a theory question you should place the answer right below the question and place any graphics, code, etc. There as well.
-![A cat image](http://i.imgur.com/lVlPvCB.gif)
+
+![A cat image](http://i.imgur.com/lVlPvCB.gif =200x)
 
 
 *If the solution involves code, the students are expected to create a folder with the number of the question and the organizational folder structure we've used through the semester as follows*
-![Example Folder Structure](http://i.imgur.com/Dbcdfg7.png)
+
+![Example Folder Structure](http://i.imgur.com/Dbcdfg7.png =200x)
 
 ------------------------------------------------------
 1. 
