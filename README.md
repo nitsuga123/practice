@@ -60,3 +60,9 @@ A test response should be done through a pull request.
 5. What is a Behaviour Tree?, make an example of how they work.
 
 6. Using the free [behaviour plugin](https://www.assetstore.unity3d.com/en/#!/content/20280) we reviewed in class, make a simple guard that moves through waypoints patrolling.
+
+7. What are the core steps of the minimax algorithm for decision making?, make a pseudocode.
+
+8. Using Unity's navmesh move a simple agent to wherever the user clicks.
+
+
