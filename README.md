@@ -65,4 +65,6 @@ A test response should be done through a pull request.
 
 8. Using Unity's navmesh move a simple agent to wherever the user clicks.
 
+9. What are polygons and how do they represent 3D models? Draw a example of different levels of density on a sphere.
 
+10. What is a normal map? Give an example of an scenario where it would be better to use bump maps.
