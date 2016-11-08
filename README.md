@@ -12,11 +12,16 @@ In order to submit a solution students need to create a fork of this repository 
 In order to solve a theory question you should place the answer right below the question and place any graphics, code, etc. There as well.
 
 ![A cat image](http://i.imgur.com/lVlPvCB.gif =200x)
-
+```c#
+  if (cat)
+    Debug.Log ("Meow");
+```
 
 *If the solution involves code, the students are expected to create a folder with the number of the question and the organizational folder structure we've used through the semester as follows*
 
 ![Example Folder Structure](http://i.imgur.com/Dbcdfg7.png =200x)
 
 ------------------------------------------------------
-1. 
+1. Which data structure would be more suitable for this scenario and why?:
+
+"I have a hot-dog game where the clients place their orders one by one and I have to serve them in the order they place their orders, in other words the first client to place an order should be the first served."
