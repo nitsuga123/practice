@@ -11,7 +11,10 @@ In order to submit a solution students need to create a fork of this repository 
 
 In order to solve a theory question you should place the answer right below the question and place any graphics, code, etc. There as well.
 
+A test response should be done through a pull request.
+
 ![A cat image](http://i.imgur.com/lVlPvCB.gif =200x)
+
 ```c#
   if (cat)
     Debug.Log ("Meow");
