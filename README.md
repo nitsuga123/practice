@@ -71,4 +71,6 @@ A test response should be done through a pull request.
 
 11. What is different between a directional light and a point light? Draw.
 
-12. What is light-baking and how does it impact performance? 
+12. What is light-baking and how does it impact performance? Make an example in Unity.
+
+13. What is a shader? How can you use Unity's standar shader to make it emit light? Make an example in Unity.
