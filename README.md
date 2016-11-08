@@ -25,6 +25,7 @@ A test response should be done through a pull request.
 ![Example Folder Structure](http://i.imgur.com/Dbcdfg7.png =200x)
 
 ------------------------------------------------------
+
 1. Which data structure would be more suitable for this scenario and why?, write a short code that shows how it would be used for the methods *PlaceOrder (Order o)* and *AttendNext ()*:
 
   "I have a hot-dog game where the clients place their orders one by one and I have to serve them in the order they place    their orders, in other words the first client to place an order should be the first served."
@@ -33,24 +34,29 @@ A test response should be done through a pull request.
 
 3. How would you enhance the performance of the following code using data structures?
 
-```c#
-public class Character
-{
-  public string greeting;
-  public string name;
-}
-
-public class Greeter
-{
-  private List<Character> characters;
-  
-  public void Greet (string name)
+  ```c#
+  public class Character
   {
-    foreach (Character c in characters)
+    public string greeting;
+    public string name;
+  }
+
+  public class Greeter
+  {
+    private List<Character> characters;
+
+    public void Greet (string name)
     {
-      if (c.name == name)
-         Debug.Log (c.greeting);
+      foreach (Character c in characters)
+      {
+        if (c.name == name)
+           Debug.Log (c.greeting);
+      }
     }
   }
-}
-```
+  ```
+4. What is a State Machine?, make a diagram with an example of how they work.
+
+5. What is a Behaviour Tree?, make an example of how they work.
+
+6. Using the free [behaviour plugin](https://www.assetstore.unity3d.com/en/#!/content/20280) we reviewed in class, make a simple guard that moves through waypoints patrolling.
