@@ -68,3 +68,7 @@ A test response should be done through a pull request.
 9. What are polygons and how do they represent 3D models? Draw a example of different levels of density on a sphere.
 
 10. What is a normal map? Give an example of an scenario where it would be better to use bump maps.
+
+11. What is different between a directional light and a point light? Draw.
+
+12. What is light-baking and how does it impact performance? 
