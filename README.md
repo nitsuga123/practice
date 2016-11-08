@@ -76,3 +76,4 @@ A test response should be done through a pull request.
 13. What is a shader? How can you use Unity's standar shader to make it emit light? Make an example in Unity.
 
 14. Make a scrollable pane which contains a set of cards inside. Like a store.
+![Store] (http://www.androidpolice.com/wp-content/uploads/2014/09/nexus2cee_nexusae0_2013-10-21-23.35.18.png)
