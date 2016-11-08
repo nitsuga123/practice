@@ -24,7 +24,7 @@ In order to solve a theory question you should place the answer right below the 
 ------------------------------------------------------
 1. Which data structure would be more suitable for this scenario and why?, write a short code that shows how it would be used for the methods *PlaceOrder (Order o)* and *AttendNext ()*:
 
-"I have a hot-dog game where the clients place their orders one by one and I have to serve them in the order they place their orders, in other words the first client to place an order should be the first served."
+  "I have a hot-dog game where the clients place their orders one by one and I have to serve them in the order they place    their orders, in other words the first client to place an order should be the first served."
 
 2. How do dictionaries work?, how fast is it to search for an element in a dictionary?. How does hashing have anything to do with it?
 
